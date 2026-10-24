@@ -3,7 +3,8 @@
 #include <memory>
 #include <string>
 
-class LogService {
+class LogService
+{
 public:
     virtual ~LogService() = default;
 
