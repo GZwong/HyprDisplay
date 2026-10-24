@@ -83,3 +83,6 @@ CMakeLists.txt.user*
 
 # VS code
 .vscode/
+
+# File logging
+hyprdisplay.log
